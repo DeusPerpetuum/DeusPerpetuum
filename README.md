@@ -8,5 +8,3 @@
 - How to reach me: </br>
   Email: deusperpetuum@mail.ru </br>
   That's all for now. </br>
-- Donate: </br>
-    undefined
