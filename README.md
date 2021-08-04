@@ -1,4 +1,4 @@
-- Hi, I’m DeusPerpetuum
+- Hi, I’m Deus
 - I’m now interested in developing sites and browser extentions.
 - I’m currently learning programming language JavaScript.
 - About me: </br>
