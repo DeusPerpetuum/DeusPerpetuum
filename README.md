@@ -6,5 +6,4 @@
     I'm speaking to russian, but i can bad speak to english. </br>
     My birthday is November 22nd. </br>
 - How to reach me: </br>
-  Email: deusperpetuum@mail.ru </br>
   That's all for now. </br>
